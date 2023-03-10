@@ -1,0 +1,23 @@
+body {
+  
+  background: linear-gradient(to bottom, #6fe2f3,#fbdbb0);
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  
+ 
+}
+
+ul li {
+  list-style-type: none;
+  font-size:25px;
+  font-weight: 900;
+  
+  
+}
+
+ul li li {
+  list-style-type: circle;
+  font-weight: 200;
+}
+
