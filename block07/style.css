@@ -22,21 +22,23 @@ body {
   background-color: black;
 }
 
+/* set width of header and center h1 */
 header {
   width: 100%;
   text-align: center;
 }
 
+/* set text color, font, size and add padding to push text down from top of the page  */
 h1 {
-  color: white;
+  color: red;
   font-family:cursive;
   font-size: 5em;
   padding: 10%;
-  color: red;
+  
   
 }
 
-
+/* set height of image and add border radius to smooth out the edges */
 main img {
   height: 500px;
   border-radius: 50%;
