@@ -1,0 +1,34 @@
+.grid-container {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+ 
+}
+
+
+
+.article1 {
+  height: 1rem;
+  border: red solid 3px;
+}
+
+.article2 {
+  border: greenyellow solid 3px;
+}
+
+.article3 {
+  border: purple solid 3px;
+}
+
+.article4 {
+  border: blue solid 3px;
+}
+
+.article5 {
+  border: orange solid 3px;
+  height: 1rem;
+}
+
+.article6 {
+  
+}
