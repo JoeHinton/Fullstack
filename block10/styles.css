@@ -207,7 +207,7 @@ background-color: rgb(144, 238, 236);
     }
   }
 
-  @media (min-width: 1920px)  
+  @media (min-width: 1200px)  
     /* article1 */
     {
     .article1-section1 p:nth-of-type(4) {
@@ -277,7 +277,7 @@ background-color: rgb(144, 238, 236);
     .article2-section1 p:nth-of-type(7) {
       position: absolute;
       top: 55px;
-      left: 260px;
+      left: 250px;
       min-height: 2rem;
       border: #ffffff solid 1rem;
       border-radius: 30%;
